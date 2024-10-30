@@ -1,0 +1,11 @@
+Title:Mrs
+Full Name:Ayesha
+USN:1WT23CS011
+Semester:III
+Section:B
+Branch:CS
+Year of ADM:2023
+College Name:GITW
+UG Degree:Mechanical Engineering
+PG Degree:Manufacturing Science & Engineering
+PhD Degree:Material Engineering
